@@ -21,7 +21,7 @@ docker exec -it ql bash
 
 #### 2.拉取仓库
 ```
-ql repo https://github.com/KotoriMinami/qinglong-sign.git "sign_"
+ql repo https://github.com/fzlzl/qinglong-sign.git "sign_"
 ```
 #### 3.拷贝配置文件
 ```
